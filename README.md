@@ -1,3 +1,3 @@
 # crwal_practice
 
-# sk와이번스 갤러리
+## sk와이번스 갤러리
